@@ -1,4 +1,4 @@
-# Hello blog world
+# Hello blog from Hugo!
 
 This is a first blog
 
