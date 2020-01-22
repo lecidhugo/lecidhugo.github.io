@@ -22,7 +22,6 @@ or a numbered list:
 ## Boxes and stuff
 > Here is a quotation
 
-{% blabla %}
 
 ## Code
     # Do a thing
