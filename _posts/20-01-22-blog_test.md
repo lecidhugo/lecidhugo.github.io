@@ -57,26 +57,6 @@ Jupyter displays the result of the last line of a cell, so there's no need to in
 </div>
 
 It works not just for text, but also for images:
-<div class="codecell" markdown="1">
-<div class="input_area" markdown="1">
-
-```python
-Image.open('../fast.ai/images/fast_template/image2.png').flip_lr()
-```
-
-</div>
-<div class="output_area" markdown="1">
-
-
-
-
-![png](output_6_0.png)
-
-
-
-</div>
-
-</div>
 
 ...and plots:
 <div class="codecell" markdown="1">
@@ -90,7 +70,7 @@ plt.plot([1,2]);
 <div class="output_area" markdown="1">
 
 
-![png](output_8_0.png)
+![png](output_7_0.png)
 
 
 </div>
@@ -187,3 +167,7 @@ This will modify your markdown doc inplace, so it will have the correct `/images
 Finally, copy `name_files` to the `images` folder in your blog repo, and `name.md` to your `_posts` folder, and rename `name.md` to have the required `YEAR-MONTH-DAY-name.md` format. Commit and push this to GitHub, and you should see your post!
 
 ![image.png](attachment:image.png)
+
+![image.png](attachment:image.png)
+
+![](/images/blog_test_files/Selection_085.png)
